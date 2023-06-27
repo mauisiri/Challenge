@@ -5,12 +5,9 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
-  <p align="center">A Junior Developer Code Challenge using<a href="http://nodejs.org" target="_blank">Node.js</a> framework to create an endpoint that will allow the users of an app to save their account preferences such as language, profile details, terms & conditions acceptance etc. using Nest.js</p>
+  <p align="center">A Junior Developer Code Challenge using <a href="http://nodejs.org" target="_blank">Node.js</a> framework to create an endpoint that will allow the users of an app to save their account preferences such as language, profile details, terms & conditions acceptance etc. using <a href="https://nestjs.com/" target="_blank">Nest.js</a> framework (TypeScript).</p>
  
 
-## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
 
