@@ -34,7 +34,8 @@ $ npm run start:prod
 ## Stay in touch
 
 - Author - [Iris Leo](https://irisleo.com)
-- LinkedIn - [https://nestjs.com](https://www.linkedin.com/in/irisleo/)
+- Portfolio - [irisleo.com](https://irisleo.com)
+- LinkedIn - [https://www.linkedin.com/in/irisleo/](https://www.linkedin.com/in/irisleo/)
 - GitHub - [https://github.com/mauisiri](https://github.com/mauisiri)
 
 
